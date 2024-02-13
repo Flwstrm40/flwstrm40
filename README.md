@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## Github Statistics
+<p align="left">
+<a href="https://github.com/flwstrm40">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=flwstrm40&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=flwstrm40&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **Flwstrm40/flwstrm40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
